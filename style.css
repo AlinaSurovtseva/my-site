@@ -359,7 +359,7 @@ li.articles-item-big:last-child {
 .contact-item input {
     width: 407px;
     height: 63px;
-
+    font-size: 16px;
     background: rgba(255, 255, 255, 0.4);
     border: 1px solid #202117;
     box-sizing: border-box;
